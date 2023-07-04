@@ -3,12 +3,12 @@ import Nav from './components/Navbar'
 import './app.css'
 
 export function App() {
-  
+
 
   return (
-   <div>
-    <Main />
-    <Nav />
-   </div>
+    <div>
+      <Nav />
+      <Main />
+    </div>
   )
 }
